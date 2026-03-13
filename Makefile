@@ -1,6 +1,6 @@
 PORTNAME=	wx
 DISTVERSIONPREFIX=	v
-DISTVERSION=	3.3.1
+DISTVERSION=	3.3.2
 CATEGORIES=	x11-toolkits
 MASTER_SITES=	https://github.com/wxWidgets/wxWidgets/releases/download/v${DISTVERSION}/
 PKGNAMESUFFIX=	${_SHORT_WX_VER}-${FLAVOR}
